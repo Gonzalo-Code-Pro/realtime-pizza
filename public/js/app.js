@@ -5307,8 +5307,8 @@ addToCart.forEach(function (btn) {
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! E:\6.NODE_PRACTICAS__\realtime-order\resources\js\app.js */"./resources/js/app.js");
-module.exports = __webpack_require__(/*! E:\6.NODE_PRACTICAS__\realtime-order\resources\scss\app.scss */"./resources/scss/app.scss");
+__webpack_require__(/*! E:\6.NODE_PRACTICAS__\realtime-pizza\resources\js\app.js */"./resources/js/app.js");
+module.exports = __webpack_require__(/*! E:\6.NODE_PRACTICAS__\realtime-pizza\resources\scss\app.scss */"./resources/scss/app.scss");
 
 
 /***/ })
